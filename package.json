@@ -1,15 +1,15 @@
 {
-  "_from": "@phaetonhq/phaeton-constants",
-  "_id": "@phaetonhq/phaeton-constants@1.2.3",
+  "_from": "phaeton-constants",
+  "_id": "phaeton-constants@1.2.3",
   "_inBundle": false,
   "_integrity": "sha512-PfkSswhX+CIibiXkKD7+MgQ06KXakfXr55Kg7lVe2tPan1fWYmHkGCUvKQkf5ybPYlHFJ9sOXjJG8ci4ZrFghg==",
-  "_location": "/@phaetonhq/phaeton-constants",
+  "_location": "/phaeton-constants",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@phaetonhq/phaeton-constants",
-    "name": "@phaetonhq/phaeton-constants",
+    "raw": "phaeton-constants",
+    "name": "phaeton-constants",
     "escapedName": "@phaetonhq%2fphaeton-constants",
     "scope": "@phaetonhq",
     "rawSpec": "",
@@ -20,9 +20,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@phaetonhq/phaeton-constants/-/phaeton-constants-1.2.3.tgz",
+  "_resolved": "https://registry.npmjs.org/phaeton-constants/-/phaeton-constants-1.2.3.tgz",
   "_shasum": "bf9db2e3f76fb012302f6ad46efe7311930a0484",
-  "_spec": "@phaetonhq/phaeton-constants",
+  "_spec": "phaeton-constants",
   "_where": "/home/hotam/project/phaeton/phaeton-packages",
   "author": {
     "name": "Phaeton Foundation",
@@ -70,7 +70,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist-node/index.js",
-  "name": "@phaetonhq/phaeton-constants",
+  "name": "phaeton-constants",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PhaetonHQ/phaeton-sdk.git"
